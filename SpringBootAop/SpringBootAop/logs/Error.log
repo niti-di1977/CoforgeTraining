@@ -1,0 +1,14 @@
+2024-08-15 [main] INFO  c.company.SpringBootAopApplication - Starting SpringBootAopApplication using Java 22.0.2 with PID 15580 (C:\Users\ASUS\Documents\Coforge\programs\springBoot\SpringBootAop\SpringBootAop\target\classes started by ASUS in C:\Users\ASUS\Documents\Coforge\programs\springBoot\SpringBootAop\SpringBootAop)
+2024-08-15 [main] INFO  c.company.SpringBootAopApplication - No active profile set, falling back to 1 default profile: "default"
+2024-08-15 [main] INFO  c.company.SpringBootAopApplication - Started SpringBootAopApplication in 3.322 seconds (process running for 5.774)
+2024-08-15 [main] INFO  com.company.aop.LoggingAop - Transaction support Started
+2024-08-15 [main] INFO  com.company.aop.LoggingAop - Transaction committed
+2024-08-15 [main] INFO  com.company.aop.LoggingAop - Transaction support Started
+2024-08-15 [main] INFO  com.company.aop.LoggingAop - Transaction committed
+2024-08-15 [main] INFO  c.company.SpringBootAopApplication - Starting SpringBootAopApplication using Java 22.0.2 with PID 14308 (C:\Users\ASUS\Documents\Coforge\programs\springBoot\SpringBootAop\SpringBootAop\target\classes started by ASUS in C:\Users\ASUS\Documents\Coforge\programs\springBoot\SpringBootAop\SpringBootAop)
+2024-08-15 [main] INFO  c.company.SpringBootAopApplication - No active profile set, falling back to 1 default profile: "default"
+2024-08-15 [main] INFO  c.company.SpringBootAopApplication - Started SpringBootAopApplication in 3.283 seconds (process running for 5.0)
+2024-08-15 [main] INFO  com.company.aop.LoggingAop - Transaction support Started
+2024-08-15 [main] INFO  com.company.aop.LoggingAop - Transaction committed
+2024-08-15 [main] INFO  com.company.aop.LoggingAop - Transaction support Started
+2024-08-15 [main] INFO  com.company.aop.LoggingAop - Transaction committed
